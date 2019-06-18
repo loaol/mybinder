@@ -1,3 +1,3 @@
 # mybinder
 
-This project is helping me with the web website[mybinder](gke.mybinder.org). Besides, it can also be used as a python code repository.
+This repository is to help me working the website of [mybinder](gke.mybinder.org). Besides, it is also a python code repository.
